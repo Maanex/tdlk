@@ -24,7 +24,7 @@
 
         $("#text").html("Computing...");
         if(window.location.href.includes("#"))
-            loc = window.location.href.split("#")[1];
+            loc = window.location.href.split("#")[1].toLowerCase();
 
         $("#text").html("Loading...");
         $.get(dataform, data => {
