@@ -1,7 +1,40 @@
 <!--
 
-node
+@author Maanex
+(c) Tude 2018
 
 -->
 
-soon (tm)
+<html>
+    <header>
+        <title>Redirecting...</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    </header>
+
+    <body>
+        <div id="text">Please enable JavaScript!</div>
+    </body>
+
+    <script>
+        const dataform = "https://raw.githubusercontent.com/Maanex/tdlk/master/data/links.json";
+        var loc      = "_default";
+
+        $("#text").html("Computing...");
+        if(window.location.href.includes("#")) loc = window.location.href.split("#")[1];
+
+        $("#text").html("Loading...");
+        $.get(dataform, data => {
+            $("#text").html("Redirecting...");
+            var obj = JSON.parse(data);
+            if(obj[loc] == undefined) loc = "_default";
+            var link = obj[loc];
+            window.location = link;
+        });
+    </script>
+
+</html>
