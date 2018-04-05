@@ -1,6 +1,9 @@
 {
 
 "_default": "http://tdlk.cf/web/notfound.html",
+
+"google": "https://google.com/",
+  
 "test": "http://tdlk.cf/web/test.html"
 
 }
