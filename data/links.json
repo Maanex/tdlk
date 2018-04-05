@@ -2,12 +2,23 @@
 
 "_default": "http://tdlk.cf/web/notfound.html",
 
-"google": "https://google.com/",
+
   
 "tude": "http://tude.ga/",
+  
 "discord": "http://discord.gg/tUD6RTN",
+"dc": "http://discord.gg/tUD6RTN",
+  
 "twitter": "http://twitter.com/TudeTeam",
+"tw": "http://twitter.com/TudeTeam",
+  
 "instagram": "http://instagram.com/TudeTeam",
+"ig": "http://instagram.com/TudeTeam",
+  
+"youtube": "https://www.youtube.com/channel/UC_zriBpOaeGT51Kjj0EC8YA",
+"yt": "https://www.youtube.com/channel/UC_zriBpOaeGT51Kjj0EC8YA",
+  
+  
   
 "test": "http://tdlk.cf/web/test.html"
 
