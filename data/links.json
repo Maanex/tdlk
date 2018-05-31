@@ -1,31 +1,49 @@
 {
-
-"_default": "http://tdlk.cf/web/notfound.html",
   
-"whatis": "http://tdlk.cf/web/whatis.html",
-
-
-  
-"tude": "http://tude.ga/",
-  
-"discord": "https://discord.gg/mJnQXet",
-"dc": "https://discord.gg/mJnQXet",
-  
-"privatediscord": "http://discord.gg/tUD6RTN",
-"pdc": "http://discord.gg/tUD6RTN",
-  
-"twitter": "http://twitter.com/TudeTeam",
-"tw": "http://twitter.com/TudeTeam",
-  
-"instagram": "http://instagram.com/TudeTeam",
-"ig": "http://instagram.com/TudeTeam",
-  
-"youtube": "https://www.youtube.com/channel/UC_zriBpOaeGT51Kjj0EC8YA",
-"yt": "https://www.youtube.com/channel/UC_zriBpOaeGT51Kjj0EC8YA",
+  "_default": "http://tdlk.cf/web/notfound.html",
+    
+  "whatis": "http://tdlk.cf/web/whatis.html",
   
   
-"close": "http://maanex.github.io/wbsp/docs/closebrowser.html",
+    
+  "tude": "http://tude.ga/",
+    
+  "discord": "https://discord.gg/mJnQXet",
+  "dc": "https://discord.gg/mJnQXet",
+    
+  "privatediscord": "http://discord.gg/tUD6RTN",
+  "pdc": "http://discord.gg/tUD6RTN",
+    
+  "twitter": "http://twitter.com/TudeTeam",
+  "tw": "http://twitter.com/TudeTeam",
+    
+  "instagram": "http://instagram.com/TudeTeam",
+  "ig": "http://instagram.com/TudeTeam",
+    
+  "youtube": "https://www.youtube.com/channel/UC_zriBpOaeGT51Kjj0EC8YA",
+  "yt": "https://www.youtube.com/channel/UC_zriBpOaeGT51Kjj0EC8YA",
+    
+  "reddit": "https://reddit.com/r/Tude",
+  "rd": "https://reddit.com/r/Tude",
+    
+    
+  "contact": "mailto:tudeteam@gmail.com",
+    
+    
+  "close": "http://maanex.github.io/wbsp/docs/closebrowser.html",
+    
+    
+    
+  "maanex": "http://twitter.com/Maanex_",
+  "daaren": "http://twitter.com/DaarenX",
+  "minuslinus": "https://twitter.com/_MinusLinus_",
+  "minnnaaa": "https://twitter.com/MoritzSchulz4",
+  "zyxt"  : "https://twitter.com/max_zyxt",
+  "magicall": "https://twitter.com/zimmer1009",
   
-"test": "http://tdlk.cf/web/test.html"
-
+  "artmaker": "https://twitter.com/ArtMaker_Bot",
+  
+  
+    
+  "test": "http://tdlk.cf/web/test.html"
 }
